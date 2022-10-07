@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/Tommylegen" width="460" height="460"/>
+<img src="https://avatars.githubusercontent.com/Tommylegen" width="200" height="200"/>
 </p>
 
 ### Hi👋, I.m Raja Developer (Rajaaja)
@@ -21,7 +21,7 @@ Web Developer based in West Java, Indonesia. Interested in user interface design
 
 <a href="https://wa.me/6289505054287" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Raja Developer" height="30" width="40" /></a>
 
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="Raja.id" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/Raja.id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="Raja.id" height="30" width="40" /></a>
 
 </p>
 
